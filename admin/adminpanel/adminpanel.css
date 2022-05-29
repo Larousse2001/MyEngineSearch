@@ -1,0 +1,36 @@
+body{
+	background-color:#273746;
+	color:#ffffff;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#addbutton,#deletebutton{
+	background-color: transparent;
+	color: white;
+	font-size: 16px;
+	border :none;
+	height:40px;
+	width:90px;
+}
+
+
+
+#deletebutton:hover,#addbutton:hover{
+	background-color:#0084FF;
+}
+
+/*-----------------------------*/
+
+#firstdiv{
+	 height:70px;
+	 background-color:#0084FF;
+	 width:100%;
+	
+}
+#seconddiv{
+	 height:40px;
+	width:100%;
+	border-bottom: 1px solid white;
+	
+}
